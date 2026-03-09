@@ -13,8 +13,8 @@ numpy<2.0
 optuna==4.4.0
 pandas==2.3.1
 plotly==5.20.0
-scikit-learn==1.6.1
-scikit-uplift==0.5.1
+scikit-learn
+scikit-uplift
 scipy
 seaborn==0.13.2
 shap==0.45.0
